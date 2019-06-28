@@ -1,0 +1,11 @@
+{
+    "code": "success",
+    "message": "注册成功",
+    "data": {
+        "account": {
+            "_id": "5a7fa8997e659141745206b0",
+            "token": "cd560b69db767aa5658916b12eea361354a0da5b",
+            "nickname": "新闻用户18792548338"
+        }
+    }
+}

@@ -5,10 +5,17 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-
+    isread:''
   },
   mutations: {
-
+    changeisread(state){
+      state.isread=true;
+    },
+  },
+  getters:{
+    optisread:function(state){
+      return state.isread;
+    }
   },
   actions: {
 

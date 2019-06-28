@@ -1,0 +1,10 @@
+{
+    "code": "success",
+    "data": {
+        "account": {
+            "_id": "5a7d13eda2f22d1eede15f9a",
+            "token": "c6e72addcad9e04f5de7558ec519e5872f26cf4e",
+            "nickname": "李春辉"
+        }
+    }
+}
